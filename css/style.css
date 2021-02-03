@@ -139,6 +139,9 @@ a:focus {
     z-index: 999;
 }
 
+.brandimg{
+    height: 100%;
+}
 .navbar.nav-sticky {
     position: fixed;
     top: 0;
