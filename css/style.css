@@ -251,7 +251,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: url(../img/hero-bg.jpg);
+    background: url(../img/back2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -478,7 +478,8 @@ a:focus {
     position: relative;
     width: 100%;
     margin: -45px 0 45px 0;
-    background-color: whitesmoke;
+    background-color: white;
+    padding: 8%;
 }
 
 .about .col-lg-6 {
@@ -497,8 +498,11 @@ a:focus {
 .about .about-img img {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 50%;
+    padding: 14%;
     object-fit: cover;
+    /* border-radius: 70%; */
+    
 }
 
 .about .about-content {
